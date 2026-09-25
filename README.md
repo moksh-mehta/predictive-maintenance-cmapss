@@ -1,6 +1,6 @@
 # Predictive Maintenance with Machine Learning on the NASA C-MAPSS Dataset
 
-CSCI 1970 Individual Independent Study, Spring 2026.
+CSCI 1970 Individual Independent Study, Spring 2026. **[Read the paper (PDF)](Mehta_Independent_Study.pdf)**
 
 This repository contains the full implementation, results, and write-up
 for an independent study on machine-learning-based predictive maintenance
